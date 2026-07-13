@@ -1,6 +1,6 @@
 # cats
 
-Move your mouse and cat-shaped hearts trail behind it, over a dark background with the word "cats" in the middle.
+cool cat website
 
 ## Stack
 
